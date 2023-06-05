@@ -49,3 +49,6 @@ a {
 	color: inherit;
 	text-decoration: none;
 }
+.fa,.fab,.fad,.fal,.far{
+	font-weight: 900 !important;
+}
