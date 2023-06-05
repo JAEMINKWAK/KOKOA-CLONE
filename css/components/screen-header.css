@@ -6,6 +6,7 @@
     margin-bottom: 10px;
 }
 .screen-header__title {
+    color: var(--red);
     font-size: 32px;
     font-weight: 600;
 }

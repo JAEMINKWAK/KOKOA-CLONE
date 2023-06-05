@@ -1,10 +1,14 @@
 .user-component {
-    justify-content: space-between
+    justify-content: space-between;
+    margin-bottom: 10px;
 }
 .user-component,
 .user-component__column:first-child {
     display: flex;
     align-items: center;
+}
+.user-component__column img {
+    border: 3px solid var(--red);
 }
 .user-component__avatar {
     width: 70px;
@@ -25,11 +29,14 @@
 .user-component__avatar--xl {
     width: 80px;
     height: 80px;
+    border-radius: 25px;
+    border: 3px solid var(--red);
 }
 .user-component__avatar--sm {
     width: 60px;
     height: 60px;
     border-radius: 25px;
+    border: 3px solid var(--red);
 }
 .user-component__title--not-bold {
     font-weight: 400;

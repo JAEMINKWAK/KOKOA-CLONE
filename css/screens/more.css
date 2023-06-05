@@ -29,7 +29,7 @@
     align-items: center;
     margin-bottom: 10px;
 }
-.more-suggestions__icon-image i {
-    font-size: 32px;
+.more-suggestions__icon-image img {
+    width: 60px;
     color: white;
 }
