@@ -1,1 +1,1 @@
-#cbnu-club-design
+# CBNU club matching application
