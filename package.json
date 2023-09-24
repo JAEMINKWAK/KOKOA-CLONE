@@ -1,5 +1,26 @@
 {
   "dependencies": {
-    "http-server": "^14.1.1"
-  }
+    "express": "^4.18.2",
+    "http-server": "^14.1.1",
+    "mongodb": "^6.1.0",
+    "mongoose": "^7.5.2"
+  },
+  "name": "cbnu-club-design",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JAEMINKWAK/cbnu-club-design.git"
+  },
+  "author": "JAEMINKWAK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JAEMINKWAK/cbnu-club-design/issues"
+  },
+  "homepage": "https://github.com/JAEMINKWAK/cbnu-club-design#readme"
 }
